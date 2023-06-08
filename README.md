@@ -32,7 +32,7 @@ The main purpose of the application is to get the 5 day Weather Forecast accordi
 
 ## Project Requirements
 - Weather Forecast (https://openweathermap.org/forecast5) and Geocoding (https://openweathermap.org/api/geocoding-api) endpoints will be used.✔️
-- With the help of the City Name information and the Geocoding API, the coordinate(lat,lon) information of the relevant city will be obtained.✔️
+- With the City Name information and the Geocoding API, the coordinate(lat,lon) information of the relevant city will be obtained.✔️
 - According to these results, 5-day, 3-hourly weather forecast data will be obtained.✔️
 - Authentication structure will be established.✔️
 - Users can create an account to save their city and view the weather forecast for the saved cities.✔️
@@ -41,6 +41,7 @@ The main purpose of the application is to get the 5 day Weather Forecast accordi
 - Error Handling.✔️
 - Logging Mechanism.✔️
 - Feign(Open Feign) will be used for client.✔️
+- Frontend with ReactJS.✔️
 
 ## Test
 - Tests were partial due to time constraints, only control test were implemented.
