@@ -1,0 +1,151 @@
+.container {
+    border-radius: 1vw;
+    background-color: white;
+    padding: 1.1vw;
+    border: 1.5px solid #eceeff;
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 1vh;
+}
+.searchContainer{
+    margin-bottom: 2vh;
+  }
+  .searchInput{
+    width: 40%;
+    height: 2.5vw;
+    border-radius: 0.5vw;
+    border: 1px solid #eceeff;
+    padding: 0.5vw;
+    font-size: 1rem;
+    font-family: sans-serif;
+    color: #3e4581;
+    font-weight: 600;
+  }
+.locationIcon{
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #3e4581;
+}
+.cityNameContainer{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    color: #3e4581;
+    margin-bottom: 3vh;
+}
+.cardContainer{
+    align-items: center;
+    border-radius: 1vw;
+    max-width: 20%;
+    border: 1px solid #eceeff;
+    cursor: pointer;
+    margin:1vw;
+}
+.cardContainer:hover{
+    box-shadow: 0 0 0.5vw 0.1vw #eceeff;
+    transform: scale(1.01);
+}
+.cardContainerSelected{
+    margin: 1vw;
+    align-items: center;
+    border-radius: 1vw;
+    max-width: 20%;
+    border: 1px solid #eceeff;
+    cursor: pointer;
+    box-shadow: 0 0 0.5vw 0.1vw #7781d3;
+    transform: scale(1.01);
+}
+.card{
+    padding: 1vw;
+}
+.slider{
+    width: 60%;
+    margin-top: -2vh;
+}
+.weatherIcon{
+    width: 15vw;
+    justify-content: center;
+    align-items: center;
+}
+.weatherContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    margin-bottom: 1vh;
+    margin-left: -3vw;
+}
+.temperature{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+    color: #3e4581;
+    margin-right: 1.5vw;
+}
+.sliderTimeContainer{
+    margin-top: 6vh;
+}
+
+.cardTitle{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+    color: #3e4581;
+    margin-bottom: 1vh;
+}
+.cardTemp{
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color: #3e4581;
+    margin-bottom: 1vh;
+}
+.minTempIcon{
+    font-size: 1rem;
+    font-weight: 700;
+    color: #969fef;
+}
+
+.maxTempIcon{
+    font-size: 1rem;
+    font-weight: 700;
+    color: #e94343;
+}
+
+.favoriteIcon{
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #3e4581;
+    margin-right: 1vw;
+    cursor: pointer;
+}
+.favoriteButton{
+    background-color: #3e4581;
+    color: white;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    margin-right: 1vw;
+}
+.favoriteCityNameContainer {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: #3e4581;
+    margin: 1vh;
+}
+  
+.favoriteCityName{
+    cursor: pointer;
+}
+.favoriteCityName:hover{
+    color: #7781d3;
+}
+.deleteButton{
+    background-color: #e94343;
+    color: white;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    margin-left: 0.5vw;
+}
