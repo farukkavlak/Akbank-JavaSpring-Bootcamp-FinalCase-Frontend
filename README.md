@@ -15,8 +15,7 @@
 https://github.com/farukkavlak/Akbank-JavaSpring-Bootcamp-FinalCase
 
 ## Demo
-#### Since used free deployment services, there may be some delays in requests.
-https://user-images.githubusercontent.com/79375232/177862614-1692973a-f8d3-4a58-893a-40978c7559f7.mp4
+https://github.com/farukkavlak/Akbank-JavaSpring-Bootcamp-FinalCase/assets/79375232/a2e5218b-0452-4e40-b31a-1801136af34c
 
 ## Project Details
 
