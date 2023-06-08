@@ -20,7 +20,8 @@ https://user-images.githubusercontent.com/79375232/177862614-1692973a-f8d3-4a58-
 
 ## Project Details
 
-The main purpose of the application is to read the air pollution information(CO,O3,SO2 values) according to the City Name and Date Range using https://openweathermap.org/api, save it in the database and display it to the user.
+## Project Details
+The main purpose of the application is to get the 5 day Weather Forecast according to the City Name by using https://openweathermap.org/api, save it in the database and display it to the user.
 
 ## Technologies
 <ul>
@@ -43,7 +44,7 @@ The main purpose of the application is to read the air pollution information(CO,
 - Feign(Open Feign) will be used for client.✔️
 
 ## Test
-- Tests were partial due to time constraints, only controls were tested
+- Tests were partial due to time constraints, only control test were implemented.
 
 ## Swagger Screenshots
 #### Controller
